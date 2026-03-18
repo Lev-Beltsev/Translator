@@ -8,11 +8,19 @@
 }
 body{
   display: flex;
+<<<<<<< HEAD
   justify-content: center;
   padding: 0 10px;
   min-height: 100vh;
   background: #2d4191;
  
+=======
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  min-height: 100vh;
+  background: #5372F0;
+>>>>>>> 8acdc24fac99433269f2478bc7ed34c0ca97adaf
 }
 .container{
   max-width: 690px;
